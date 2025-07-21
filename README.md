@@ -10,7 +10,7 @@
 - ✅ [**GeoFence NDVI Analyzer 🌿**](https://github.com/sanjaynesan-05/GEOFENCE) – Completed: Real-time land classification using satellite imagery and AI  
 - 💡 Fusing **AI/ML**, **Full Stack Web Development**, and **Cinematic Storytelling** into impactful projects  
 - 🎬 Producing emotionally grounded short films rooted in **Tamil culture**, combining **realism, drama**, and **mass appeal**  
-- 🌐 **Portfolio Website**: [sanjay-nesan-j.web.app](https://sanjay-nesan-j.web.app/)   
+- 🌐 **Portfolio Website**: [Sanjay Nesan Portfolio](https://sanjay-nesan-j.web.app/)   
 - ✍️ Fun Fact: I write screenplays like I code — with **logic**, **emotion**, and a flair for the **unexpected twist**
 
 ---
